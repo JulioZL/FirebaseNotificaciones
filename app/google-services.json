@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045697448242",
+    "project_id": "notifirebase-5489f",
+    "storage_bucket": "notifirebase-5489f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045697448242:android:c8290a93b07678b5542f2b",
+        "android_client_info": {
+          "package_name": "com.example.notifirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvC6qamkJUeaaeRtmteTZrDXUhGRqTPmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

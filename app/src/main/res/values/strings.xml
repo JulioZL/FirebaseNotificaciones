@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotiFirebase</string>
+    <string name="token_fmt">Token FCM: %1$s</string>
+</resources>
